@@ -85,5 +85,7 @@ public class Author {
                 ", books=" + books +
                 '}';
     }
+
+    public void teste(){}
 }
 
