@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601b397d-7fd1-4706-b548-47b1846c93b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/teste/springframework/springwebapp/controllers/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/authors.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -300,7 +298,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547796180238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547814672525" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -337,7 +335,7 @@
       <updated>1547704939711</updated>
       <workItem from="1547704953478" duration="8833000" />
       <workItem from="1547767864577" duration="6427000" />
-      <workItem from="1547784638578" duration="9291000" />
+      <workItem from="1547784638578" duration="9891000" />
     </task>
     <task id="LOCAL-00001" summary="DevBootstrap added">
       <created>1547786177641</created>
@@ -350,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24551000" />
+    <option name="totallyTimeSpent" value="25151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="744" extended-state="6" />
